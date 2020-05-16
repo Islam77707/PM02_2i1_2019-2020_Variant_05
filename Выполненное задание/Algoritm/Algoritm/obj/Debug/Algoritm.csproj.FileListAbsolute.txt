@@ -1,0 +1,7 @@
+C:\Users\Ganer\source\repos\Algoritm\Algoritm\bin\Debug\Algoritm.exe.config
+C:\Users\Ganer\source\repos\Algoritm\Algoritm\bin\Debug\Algoritm.exe
+C:\Users\Ganer\source\repos\Algoritm\Algoritm\bin\Debug\Algoritm.pdb
+C:\Users\Ganer\source\repos\Algoritm\Algoritm\obj\Debug\Algoritm.csprojAssemblyReference.cache
+C:\Users\Ganer\source\repos\Algoritm\Algoritm\obj\Debug\Algoritm.csproj.CoreCompileInputs.cache
+C:\Users\Ganer\source\repos\Algoritm\Algoritm\obj\Debug\Algoritm.exe
+C:\Users\Ganer\source\repos\Algoritm\Algoritm\obj\Debug\Algoritm.pdb
